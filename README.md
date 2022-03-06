@@ -1,5 +1,4 @@
 # insta_clone
-
 Instagram clone with Flutter.
 
 The final result :
